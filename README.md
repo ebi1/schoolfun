@@ -1,0 +1,2 @@
+# schoolfun
+my first repo
