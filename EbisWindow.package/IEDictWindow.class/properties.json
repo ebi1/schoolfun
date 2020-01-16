@@ -1,0 +1,19 @@
+{
+	"category" : "EbisWindow",
+	"classinstvars" : [
+		"window",
+		"scrollPane",
+		"pasteUpMorph",
+		"demotext" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"entryTextMorph",
+		"promptMorph",
+		"resultMorph" ],
+	"name" : "IEDictWindow",
+	"pools" : [
+		 ],
+	"super" : "SystemWindow",
+	"type" : "normal" }

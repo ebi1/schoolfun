@@ -1,13 +1,13 @@
 {
-	"category" : "Sqottest1",
+	"category" : "EbisWindow",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "ebi 1/16/2020 17:29",
+	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "Squottest1",
+	"name" : "LayoutSpec",
 	"pools" : [
 		 ],
 	"super" : "Object",
