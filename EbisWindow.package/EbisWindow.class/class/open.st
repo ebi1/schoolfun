@@ -1,11 +1,8 @@
 as yet unclassified
 open
 "
-	IEDictWindow open.
+	EbisWindow open.
 "
-	"
-
-	layoutMorph submorphs last the text entry layout morph"
 		
 | myTextMorph |
 window := SystemWindow new.

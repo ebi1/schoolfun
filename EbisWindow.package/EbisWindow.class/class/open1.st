@@ -1,9 +1,8 @@
 as yet unclassified
 open1
 "
-	IEDictWindow open1.
+	EbisWindow open1.
 "
-	"layoutMorph submorphs last"
 		
 | myTextMorph|
 window := SystemWindow new.

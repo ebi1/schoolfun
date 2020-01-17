@@ -7,12 +7,12 @@
 		"demotext" ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "ebi 1/17/2020 16:44",
 	"instvars" : [
 		"entryTextMorph",
 		"promptMorph",
 		"resultMorph" ],
-	"name" : "IEDictWindow",
+	"name" : "EbisWindow",
 	"pools" : [
 		 ],
 	"super" : "SystemWindow",
