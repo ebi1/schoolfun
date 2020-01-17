@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"descriptionForPartsBin" : " 1/17/2020 17:09:05" },
+	"instance" : {
+		"cellsPerSide" : " 1/17/2020 17:09:05",
+		"initialize" : " 1/17/2020 17:09:05",
+		"newCellAt:at:" : " 1/17/2020 17:09:05",
+		"toggleNeighboursOfCellAt:at:" : " 1/17/2020 17:09:05" } }

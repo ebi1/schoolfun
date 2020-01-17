@@ -1,0 +1,16 @@
+{
+	"category" : "SchoolFun",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ebe 10/26/2007 16:44",
+	"instvars" : [
+		"faces",
+		"dieValue",
+		"isStopped" ],
+	"name" : "DieMorph",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }

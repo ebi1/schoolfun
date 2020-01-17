@@ -1,3 +1,4 @@
 OrderedDictionary {
-	'EbisWindow.package' : #SquotCypressCodeSerializer
+	'EbisWindow.package' : #SquotCypressCodeSerializer,
+	'SchoolFun.package' : #SquotCypressCodeSerializer
 }

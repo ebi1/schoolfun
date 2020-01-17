@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"descriptionForPartsBin" : " 1/17/2020 17:09:05" },
+	"instance" : {
+		"containsPoint:" : " 1/17/2020 17:09:05",
+		"drawOn:" : " 1/17/2020 17:09:05",
+		"handleKeystroke:" : " 1/17/2020 17:09:05",
+		"handlesMouseDown:" : " 1/17/2020 17:09:05",
+		"handlesMouseOver:" : " 1/17/2020 17:09:05",
+		"mouseDown:" : " 1/17/2020 17:09:05",
+		"mouseEnter:" : " 1/17/2020 17:09:05",
+		"mouseLeave:" : " 1/17/2020 17:09:05",
+		"step" : " 1/17/2020 17:09:05",
+		"stepTime" : " 1/17/2020 17:09:05" } }
