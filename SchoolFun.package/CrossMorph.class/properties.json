@@ -1,0 +1,14 @@
+{
+	"category" : "SchoolFun",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ebe 10/22/2007 17:52",
+	"instvars" : [
+		 ],
+	"name" : "CrossMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

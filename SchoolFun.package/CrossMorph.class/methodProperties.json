@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"containsPoint:" : "ebe 10/25/2007 15:28",
+		"drawOn:" : "ebe 10/22/2007 18:17",
+		"handleKeystroke:" : "ebe 10/25/2007 20:01",
+		"handlesMouseDown:" : "ebe 10/25/2007 16:48",
+		"handlesMouseOver:" : "ebe 10/25/2007 19:48",
+		"mouseDown:" : "ebe 10/25/2007 19:45",
+		"mouseEnter:" : "ebe 10/25/2007 17:16",
+		"mouseLeave:" : "ebe 10/25/2007 19:49",
+		"step" : "ebe 10/25/2007 20:07",
+		"stepTime" : "ebe 10/26/2007 17:37" } }

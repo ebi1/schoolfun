@@ -1,0 +1,14 @@
+{
+	"category" : "SchoolFun",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ebe 9/16/2007 19:02",
+	"instvars" : [
+		"mouseAction" ],
+	"name" : "QCell",
+	"pools" : [
+		 ],
+	"super" : "SimpleSwitchMorph",
+	"type" : "normal" }

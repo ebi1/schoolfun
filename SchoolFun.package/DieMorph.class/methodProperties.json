@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"descriptionForPartsBin" : "ebe 11/1/2007 17:29",
+		"faces:" : "ebe 10/26/2007 16:45" },
+	"instance" : {
+		"dieValue:" : "ebe 10/27/2007 18:14",
+		"drawDotOn:at:" : "ebe 10/26/2007 17:57",
+		"drawOn:" : "ebe 10/26/2007 17:56",
+		"face1" : "ebe 10/26/2007 17:29",
+		"face2" : "ebe 10/26/2007 17:29",
+		"face3" : "ebe 10/26/2007 17:30",
+		"face4" : "ebe 10/26/2007 17:31",
+		"face5" : "ebe 10/26/2007 17:32",
+		"face6" : "ebe 10/26/2007 17:33",
+		"face7" : "ebe 10/26/2007 17:33",
+		"face8" : "ebe 10/26/2007 17:34",
+		"face9" : "ebe 10/26/2007 17:35",
+		"faces:" : "ebe 10/26/2007 16:58",
+		"handlesMouseDown:" : "ebe 10/27/2007 18:18",
+		"initialize" : "ebe 10/27/2007 18:28",
+		"mouseDown:" : "ebe 10/27/2007 18:19",
+		"step" : "ebe 10/27/2007 18:17",
+		"stepTime" : "ebe 10/27/2007 18:16" } }

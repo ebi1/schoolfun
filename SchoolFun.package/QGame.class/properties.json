@@ -1,0 +1,15 @@
+{
+	"category" : "SchoolFun",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cellsPerSide",
+		"cells" ],
+	"name" : "QGame",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }
